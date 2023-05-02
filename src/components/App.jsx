@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import toast, { Toaster } from 'react-hot-toast';
-import { nanoid } from 'nanoid';
 import css from './App.module.css';
 import { ContactForm } from './ContactForm/ContactForm';
 import { ContactList } from './ContactsList/ContactsList';
